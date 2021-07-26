@@ -1,0 +1,1 @@
+It's 132. You take the length of the word and multiply it by 1 less. Since Distrubition is 12 you get 12 *11= 132.
