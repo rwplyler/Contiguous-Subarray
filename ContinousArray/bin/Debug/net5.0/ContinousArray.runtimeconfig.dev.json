@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Rodge\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Rodge\\.nuget\\packages"
+    ]
+  }
+}

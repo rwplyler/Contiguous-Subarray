@@ -1,0 +1,16 @@
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\bin\Debug\net5.0\ContinousArray.exe
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\bin\Debug\net5.0\ContinousArray.deps.json
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\bin\Debug\net5.0\ContinousArray.runtimeconfig.json
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\bin\Debug\net5.0\ContinousArray.runtimeconfig.dev.json
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\bin\Debug\net5.0\ContinousArray.dll
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\bin\Debug\net5.0\ref\ContinousArray.dll
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\bin\Debug\net5.0\ContinousArray.pdb
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\obj\Debug\net5.0\ContinousArray.csproj.AssemblyReference.cache
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\obj\Debug\net5.0\ContinousArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\obj\Debug\net5.0\ContinousArray.AssemblyInfoInputs.cache
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\obj\Debug\net5.0\ContinousArray.AssemblyInfo.cs
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\obj\Debug\net5.0\ContinousArray.csproj.CoreCompileInputs.cache
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\obj\Debug\net5.0\ContinousArray.dll
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\obj\Debug\net5.0\ref\ContinousArray.dll
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\obj\Debug\net5.0\ContinousArray.pdb
+C:\Users\Rodge\source\repos\ContinousArray\ContinousArray\obj\Debug\net5.0\ContinousArray.genruntimeconfig.cache
