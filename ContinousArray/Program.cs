@@ -36,6 +36,7 @@ namespace ContinousArray
                     }
                 }
             }
+            Console.WriteLine("No integers in the array give the total");
         }
     }
 }
